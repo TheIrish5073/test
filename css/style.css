@@ -2,6 +2,13 @@
     box-sizing: border-box;
 }
 
+:root{
+    --color-primary:#2584ff;
+    --color-secondary:#00d9ff;
+    --color-accent:#ff3400;
+    --color-headings:#1b0760;
+    --color-body:#918ca4;
+}
 
 /* daca pui virgula se ia toate , daca nu pui virgula se ia de exemple toate p din clasa box   */
 
